@@ -1,0 +1,35 @@
+
+IP address ==>    Internet Protocol address
+        IP address is a unique address that identifies a device on a network
+
+        Imagine you're sending a letter to a friend. An IP address is like the address for computers and devices on the internet. It's a unique set of numbers that helps data find its way to the right place, just like an address helps your letter find its way to your friend's house.
+
+
+PORT  ==> 
+        PORT is a number that identifies specific service running on device.
+         For example, port 80 is used for HTTP, port 25 is used for SMTP, and port 443 is used for HTTPS. Ports are used by applications to communicate with each other.
+
+
+        Think of a port like a door number on a big building. Computers use ports to manage different types of information coming in and going out. Just like different doors lead to different rooms, different ports help computers know which software or service should handle the incoming data.
+
+HTTP Methods  ==>
+        http methods are used to define the  action that a client wants to perform on the resource.
+        The most common HTTP methods are GET, POST, PUT, DELETE, and HEAD.
+
+        When you interact with a website, you're not just reading – you're also doing things like submitting forms or requesting new information. HTTP methods are like the different actions you can take. For instance, "GET" is like asking for something, "POST" is like giving something, and "DELETE" is like removing something.
+
+
+MAC Address  ==>
+        to identifies a device on a local area network. (LAN)
+
+        A MAC address (Media Access Control address) is a unique identifier for a network interface controller (NIC). It is used to identify devices on a local area network (LAN). MAC addresses are assigned by the manufacturer of the NIC.
+
+        Imagine you're at a party where everyone has a name tag. A MAC address is like a name tag for your computer's connection to a network. It's unique to your device, so when devices chat within a local network, they use MAC addresses to recognize each other.
+
+     
+    Here are some of the key differences between IP addresses and MAC addresses:
+
+    IP addresses are used to identify devices on the internet, while MAC addresses are used to identify devices on a local area network.
+    IP addresses are assigned by ISPs, while MAC addresses are assigned by the manufacturer of the NIC.
+    IP addresses are 32-bit numbers, while MAC addresses are 48-bit numbers.
+    IP addresses are routable, while MAC addresses are not.
